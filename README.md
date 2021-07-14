@@ -17,6 +17,7 @@ Included features are:
     
 <p align="center">
     <image src="images/16.png" width="500">
+        <image src="images/17.png" width="500">
         </p>
 
 ### Working of the app
@@ -48,7 +49,7 @@ Included features are:
         </p>
 7. The Explore fragments where the user can view all the donors and requests:
          <p align="center">
-    <image src="images/7%20(1).png" width="200">
+    <image src="images/18.png" width="200">
         <image src="images/8.png" width="200">
         </p>
 8.The Chatbot Module that helps user with queries
