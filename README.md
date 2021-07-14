@@ -4,7 +4,7 @@
 
 # About blood-db
 Blood-db is a responsive android application that maintains a record of blood donors and their blood groups along with requests made by people to the blood 
-donors for emergency blood requirements.
+donors for emergency blood requirements. The application contains an information portal that allows users to either learn about blood donation from a chatbot or play a quick 3D video based game that simulates a situation denoting the importance of blood donation in an emergency.
 
 ## Features
 Makes it easy for the recipients to look for blood donors in emergency situations,helps in making contact easily.
@@ -14,6 +14,10 @@ Included features are:
 3. Login and signup options
 4. Make Requests
 5. Find donors in your own city
+    
+<p align="center">
+    <image src="images/16.png" width="500">
+        </p>
 
 ### Working of the app
 1. The landing page of the app gives description about the application:
