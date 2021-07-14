@@ -55,6 +55,7 @@ Included features are:
 8.The Chatbot Module that helps user with queries
         <p align="center">
     <image src="images/14.png" width="200">
+        <image src="images/19.png" width="200">
         </p> 
         
 #### Tools used
